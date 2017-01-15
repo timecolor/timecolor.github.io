@@ -1,7 +1,7 @@
 # What Colour is it? Website version
 
 original website (http://whatcolourisit.scn9a.org/) is down, so i created a new one.                                                       
-Go to http://timecolour.github.io                                                  
+Go to http://timecolor.github.io                                                  
 
 I DID NOT CREATE THIS WEBSITE                                                                                                            
 the maker is https://github.com/Jonic                                                                                                    
